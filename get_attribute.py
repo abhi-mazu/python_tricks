@@ -19,5 +19,7 @@ class className:
     # Process using option 1
     return result
   
-
+  def main():
+    result = get_something(choice_param, args)
+    return result
   
