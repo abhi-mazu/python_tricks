@@ -1,3 +1,7 @@
+'''
+A different method to apply switch case implementation in python without using if..else..
+'''
+
 class className:
   
   # choice_param = option1, option2, ... , optionN
